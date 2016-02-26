@@ -12,8 +12,9 @@
 [![Deploy to Docker Cloud](https://github.com/yongjhih/docker-drupal/raw/master/art/deploy-to-docker-cloud.png)](https://cloud.docker.com/stack/deploy/?repo=https://github.com/yongjhih/docker-drupal)
 [![Deploy to Tutum](https://s.tutum.co/deploy-to-tutum.svg)](https://dashboard.tutum.co/stack/deploy/?repo=https://github.com/yongjhih/docker-drupal)
 
-## Usage
+![](art/docker-drupal.png)
 
+## Usage
 
 ```sh
 $ wget https://github.com/yongjhih/docker-drupal/blob/master/docker-compose.yml
