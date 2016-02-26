@@ -1,0 +1,31 @@
+#haproxy:
+#  image: tutum/haproxy
+#  #image: dockercloud/haproxy
+#  links:
+#    - drupal
+#  ports:
+#    - "8080:80"
+#  restart: always
+#  roles:
+#    - global
+
+drupal:
+  image: drupal
+  ports:
+    - "8081:80"
+  links:
+    - mysql
+  volumes_from:
+    - drupal-data
+  restart: always
+
+drupal-data:
+  image: drupal
+  volumes:
+    - /var/www/html/sites
+
+mysql:
+  image: mysql
+  restart: always
+
+# vim:set et ts=2 sw=2:
