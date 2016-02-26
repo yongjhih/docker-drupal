@@ -9,7 +9,7 @@
 [![Travis CI](https://img.shields.io/travis/yongjhih/docker-drupal.svg)](https://travis-ci.org/yongjhih/docker-drupal)
 [![Gitter Chat](https://img.shields.io/gitter/room/yongjhih/docker-drupal.svg)](https://gitter.im/yongjhih/docker-drupal)
 
-[![Deploy to Docker Cloud](https://github.com/yongjhih/docker-drupal/raw/master/art/deploy-to-docker-cloud.png)](https://cloud.docker.com/stack/deploy/?repo=https://github.com/yongjhih/docker-drupal)
+[![Deploy to Docker Cloud](https://github.com/yongjhih/docker-parse-server/raw/master/art/deploy-to-docker-cloud.png)](https://cloud.docker.com/stack/deploy/?repo=https://github.com/yongjhih/docker-drupal)
 [![Deploy to Tutum](https://s.tutum.co/deploy-to-tutum.svg)](https://dashboard.tutum.co/stack/deploy/?repo=https://github.com/yongjhih/docker-drupal)
 
 ![](art/docker-drupal.png)
