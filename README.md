@@ -1,5 +1,7 @@
 # docker-drupal
 
+[![Join the chat at https://gitter.im/yongjhih/docker-drupal](https://badges.gitter.im/yongjhih/docker-drupal.svg)](https://gitter.im/yongjhih/docker-drupal?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Docker Pulls](https://img.shields.io/docker/pulls/yongjhih/drupal.svg)](https://hub.docker.com/r/yongjhih/drupal/)
 [![Docker Stars](https://img.shields.io/docker/stars/yongjhih/drupal.svg)](https://hub.docker.com/r/yongjhih/drupal/)
 [![Docker Size](https://img.shields.io/imagelayers/image-size/yongjhih/drupal/latest.svg)](https://imagelayers.io/?images=yongjhih/drupal:latest)
